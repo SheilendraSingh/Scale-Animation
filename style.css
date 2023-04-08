@@ -1,0 +1,847 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 1900px;
+}
+img {
+  margin: 30px 0;
+  width: 344px;
+  display: block;
+  border-radius: 6px;
+}
+.head {
+  margin: 0;
+  padding: 40px 0;
+}
+.head h1 {
+  text-align: center;
+}
+.body {
+  margin: 0;
+  padding: 0;
+  width: 1900px;
+}
+.container {
+  margin: 0 40px;
+  width: 1840px;
+  display: flex;
+}
+.box1 {
+  margin: 0 20px 0 0;
+}
+.box2 {
+  margin: 0 20px 0 0;
+}
+.box3 {
+  margin: 0 20px 0 0;
+}
+.box4 {
+  margin: 0 20px 0 0;
+}
+.box5 {
+  margin: 0;
+}
+.box1 .img1 {
+  animation: img11 10s infinite ;
+}
+.box1 .img2 {
+  animation: img21 10s infinite ;
+}
+.box1 .img3 {
+  animation: img31 10s infinite ;
+}
+.box1 .img4 {
+  animation: img41 10s infinite ;
+}
+.box1 .img5 {
+  animation: img51 10s infinite ;
+}
+.box1 .img6 {
+  animation: img61 10s infinite ;
+}
+.box1 .img7 {
+  animation: img71 10s infinite ;
+}
+.box1 .img8 {
+  animation: img81 10s infinite ;
+}
+.box2 .img1 {
+  animation: img12 10s infinite ;
+}
+.box2 .img2 {
+  animation: img22 10s infinite ;
+}
+.box2 .img3 {
+  animation: img32 10s infinite ;
+}
+.box2 .img4 {
+  animation: img42 10s infinite ;
+}
+.box2 .img5 {
+  animation: img52 10s infinite ;
+}
+.box2 .img6 {
+  animation: img62 10s infinite ;
+}
+.box2 .img7 {
+  animation: img72 10s infinite ;
+}
+.box2 .img8 {
+  animation: img82 10s infinite ;
+}
+.box3 .img1 {
+  animation: img13 10s infinite ;
+}
+.box3 .img2 {
+  animation: img23 10s infinite ;
+}
+.box3 .img3 {
+  animation: img33 10s infinite ;
+}
+.box3 .img4 {
+  animation: img43 10s infinite ;
+}
+.box3 .img5 {
+  animation: img53 10s infinite ;
+}
+.box3 .img6 {
+  animation: img63 10s infinite ;
+}
+.box3 .img7 {
+  animation: img73 10s infinite ;
+}
+.box3 .img8 {
+  animation: img83 10s infinite ;
+}
+.box4 .img1 {
+  animation: img14 10s infinite ;
+}
+.box4 .img2 {
+  animation: img24 10s infinite ;
+}
+.box4 .img3 {
+  animation: img34 10s infinite ;
+}
+.box4 .img4 {
+  animation: img44 10s infinite ;
+}
+.box4 .img5 {
+  animation: img54 10s infinite ;
+}
+.box4 .img6 {
+  animation: img64 10s infinite ;
+}
+.box4 .img7 {
+  animation: img74 10s infinite ;
+}
+.box4 .img8 {
+  animation: img84 10s infinite ;
+}
+.box5 .img1 {
+  animation: img15 10s infinite ;
+}
+.box5 .img2 {
+  animation: img25 10s infinite ;
+}
+.box5 .img3 {
+  animation: img35 10s infinite ;
+}
+.box5 .img4 {
+  animation: img45 10s infinite ;
+}
+.box5 .img5 {
+  animation: img55 10s infinite ;
+}
+.box5 .img6 {
+  animation: img65 10s infinite ;
+}
+.box5 .img7 {
+  animation: img75 10s infinite ;
+}
+.box5 .img8 {
+  animation: img85 10s infinite ;
+}
+
+@keyframes img11 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img21 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.1,1.1);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img31 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img41 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img51 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img61 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img71 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img81 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img12 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img22 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.1,1.1);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img32 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img42 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img52 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img62 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img72 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img82 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+
+
+
+@keyframes img13 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img23 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.1,1.1);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img33 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img43 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img53 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img63 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img73 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img83 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img14 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img24 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.1,1.1);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img34 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img44 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img54 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img64 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img74 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img84 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img15 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img25 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.1,1.1);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img35 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img45 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img55 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img65 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img75 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
+@keyframes img85 {
+  0% {
+   transform: scale(1,1);
+  }
+  25% { 
+    transform: scale(1.05,1.05);
+  }
+  50% {
+    transform: scale(.9,.9);
+  }
+  75% {
+    transform: scale(1.05,1.05);
+  }
+  100%{
+    transform: scale(1,1); 
+}
+}
